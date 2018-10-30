@@ -141,6 +141,7 @@
 - [Cooper Pierce] (https://github.com/kopecs)
 - Aileen J
 - [Prajjwal](https://github.com/darksidergod/first-contributions)
+- [naveen](https://github.com/naveenuchiha)
 - [Eren Jaegar](https://github.com/erenjaegar)
 - [Lakshya Arora](https://github.com/nulll-pointer)
 - [Nishit Majithia] (https://github.com/nishitm)
